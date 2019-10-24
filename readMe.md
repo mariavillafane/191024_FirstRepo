@@ -1,4 +1,4 @@
-Hello world
-Hello again
-New change after creating otherText
-And now again a new line to see second update
+# My First Repo
+
+I am a PhD Student at ICL and NG,
+working at the ARTICT project for multimodal painting analyisis
